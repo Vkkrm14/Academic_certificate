@@ -311,6 +311,6 @@ NEXT_PUBLIC_IPFS_STORAGE_ADDRESS=0x...
 
 ---
 
-## 📄 License
+## 📄License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
